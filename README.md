@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Hindi-Movie-Reviews
+# Sentiment_Analysis_of_movie_review
